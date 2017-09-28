@@ -1,4 +1,4 @@
-a                   
+                  
 # 3D Fountain Modeling from Single Image
 
 This poster was presented at that 'Bozkırda Yapay Öğrenme Yaz Okulu 2017'(BYOYO 2017) organized by Hacettepe University.
